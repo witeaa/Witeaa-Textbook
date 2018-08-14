@@ -32,4 +32,3 @@
 
 [6.表面贴装技术SMT简介](https://github.com/witeaa/Witeaa-Textbook/wiki/%E7%AC%AC-6-%E7%AB%A0-%E8%A1%A8%E9%9D%A2%E8%B4%B4%E8%A3%85%E6%8A%80%E6%9C%AFSMT%E7%AE%80%E4%BB%8B)
 
-[6.表面贴装技术SMT简介]()
